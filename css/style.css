@@ -141,6 +141,27 @@
 .ex-10-icon {
     font-size: 60px;
 }
+
+@keyframes .ex-10-icon {
+
+    0% {
+        transform: rotate(-90deg);
+    }
+
+    25%{
+        transform: rotate(-90deg);
+    }
+
+    50%{
+        transform: rotate(-90deg);
+    }
+    
+    100%{
+        transform: rotate(-90deg);
+    }
+}
+
+
     
 .ex-11-icon {
     font-size: 60px;
